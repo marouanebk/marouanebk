@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Marouane Boukandoura<br>🔭 I’m currently a final-year AI and data science student<br>👯 I’m looking to collaborate on AI and machine learning projects<br>🤝 I’m open to freelance, full-time, and part-time opportunities<br>🌱 I’m currently learning more about and deep learning and LLms<br>💬 Ask me about AI, data science, or full-stack development<br>⚡ Fun fact: I’m passionate about creating impactful tech solutions
+👋 Hi, I'm Marouane Boukandoura<br>🔭 I’m currently a final-year AI and data science student<br>👯 I’m looking to collaborate on AI and machine learning projects<br>🤝 I’m open to freelance, full-time, and part-time opportunities<br>🌱 I’m currently learning more about llms <br>💬 Ask me about AI, data science, or full-stack development<br>⚡ Fun fact: I’m passionate about creating impactful tech solutions
 
 
 ## 🌐 Socials:
